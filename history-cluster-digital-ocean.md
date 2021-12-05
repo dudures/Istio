@@ -1,4 +1,5 @@
 root@istio-k8s-01:~# history 
+```console
     1  sudo apt-get update
     2  swapoff -a
     3  sudo modprobe overlay 
@@ -102,3 +103,4 @@ root@istio-k8s-01:~# history
   101  kubectl get svc -n istio-system | grep kiali
   102  kubectl get virtualservices.networking.istio.io
   103  kubectl get virtualservices.networking.istio.io bookinfo 
+  ```

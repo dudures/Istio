@@ -1,8 +1,11 @@
 # Istio
-Instalação do Istio em um Cluster Kubernetes na Digital Ocean para acompanhamento do curso Descomkplicando Istio da LinuxTips
+Instalação do Istio em um Cluster Kubernetes na Digital Ocean para acompanhamento do curso:
 
+- Descomplicando Istio da LinuxTips
 
-    1  sudo apt-get update
+```console
+sudo apt-get update
+```
 
 ## INSTALAÇÃO DO [CONTAINERD](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
 [Este vídeo](https://www.youtube.com/watch?v=DXw6NODrIpc) pode te ajudar nesta instalação.  
