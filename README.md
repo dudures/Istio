@@ -1,5 +1,4 @@
-# Istio
-Instalação do Istio em um Cluster Kubernetes na Digital Ocean para acompanhamento do curso:
+# Instalação do Istio em um Cluster Kubernetes na Digital Ocean para acompanhamento do curso:
 
 - Descomplicando Istio da LinuxTips
 
