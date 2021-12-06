@@ -107,9 +107,8 @@ Control Plane para executar:
 ```console
 sudo kubeadm init
 ```
-Pronto! Isso irá iniciar o seu Cluster Kubernetes Multi Control Plane pois o ***--control-plane-endpoint*** é o IP interno do nosso HAProxy. Poderia ser o Virtual IP (VIP) do HAProxy caso tivéssemos mais de um com keep-alive.
-
-Ao final, você terá os comandos para gerenciar o seu cluster e colocar os demais Control Planes e Nós (workers) no cluster.  
+Pronto! Isso irá iniciar o seu Cluster Kubernetes.
+Ao final, você terá os comandos para gerenciar o seu cluster e colocar os Nós (workers) no cluster.  
 
 Exemplo:
 
